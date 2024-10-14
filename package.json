@@ -1,0 +1,10 @@
+{
+  "name": "rs-node-file-manager",
+  "requires": true,
+  "main": "src/index.mjs",
+  "type": "module",
+  "packages": {},
+  "scripts": {
+    "start": "node src/index.mjs"
+  }
+}
